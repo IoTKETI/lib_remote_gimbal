@@ -635,3 +635,4 @@ function lib_mqtt_connect(broker_ip, port) {
     });
 }
 
+// pkg lib_remote_gimbal.js --target node14-linux-armv6
